@@ -13,4 +13,14 @@ git add --all
 git commit -m "msg"
 git log
 git checkout <codigo>
+
+git remote add <nome - origin> <endereço html>
+git push -u origin master
+git push
+
+git clone <endereco>
+
+git config --list
+git config user.name "nome do usuario do GitHub"
+git config user.email "email do github"
 */
