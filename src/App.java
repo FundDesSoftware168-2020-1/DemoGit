@@ -6,3 +6,11 @@ public class App {
         System.out.println("Versao final mesmo");
     }
 }
+
+/*
+git status
+git add --all
+git commit -m "msg"
+git log
+git checkout <codigo>
+*/
